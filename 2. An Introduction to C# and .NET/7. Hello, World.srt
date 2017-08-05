@@ -1,22 +1,27 @@
 1
 00:00:00,000 --> 00:00:09,000
-Inside of Windows I'm going to go to the Start menu, and I'm going to do a search just by typing for command
+Vào trong windows , tôi sẽ đi đến thanh Start menu, và tôi sẽ thực hiện tìm kiếm chỉ bằng cách gõ lệnh  
+
 
 2
 00:00:09,000 --> 00:00:13,000
-because what I want to open up is the command prompt. We're going to write our first program using some
+bởi vì cái mà tôi muốn mở lên là command prompt.Chúng ta sẽ viết chương trình đầu tiên của chúng ta sử dụng 1 vài
+
 
 3
 00:00:13,000 --> 00:00:19,000
-low-level tools and without Visual Studio just so you can see a little bit about what is happening behind the scenes.
+công cụ mức thấp và không VS chỉ để bạn có thể nhìn thấy một chút về những gì đang xảy ra đằng sau màn hình.
+
 
 4
 00:00:19,000 --> 00:00:26,000
-When you install Visual Studio, Visual Studio will install some command line tools that you can use to create applications.
+Khi bạn cài đặt VS,VS sẽ cài đặt 1 vài công cụ dòng lệnh mà bạn có thể dùng cho tạo các ứng dụng.
+
 
 5
 00:00:26,000 --> 00:00:31,000
-Not many people will use the command line tools on a day-to-day basis, they'll use Visual Studio instead,
+Không nhiều người sẽ sử dụng các công cụ dòng lệnh trên cơ sở hàng ngày, họ sẽ sử dụng Visual Studio thay vào đó,
+
 
 6
 00:00:31,000 --> 00:00:33,000
